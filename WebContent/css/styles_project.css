@@ -1,0 +1,163 @@
+header.top-header {
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    /* background: black; */
+   /* opacity: 0.6; */
+    border: 1px solid transparent;
+}
+
+ ul li.li_st {
+   /* list-style-type: none !important; */
+    padding-bottom: 25px !important;
+    padding-top: 25px !important;
+    background-color: #333;
+   
+}
+
+ ul li.li_st:hover {
+   /* list-style-type: none !important; */
+   background-color: #333;
+   
+}
+
+
+.menu_4_label{ 
+	padding-left: 30px !important;
+	    color: #ffc107 !important;
+	   /*   color: #fcfdf8 !important;*/
+}
+
+
+
+
+.content-block_st {
+    background: transparent no-repeat center center fixed;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    overflow: hidden;
+    padding: 70px 0;
+}
+
+#portada1{
+	width: 100%;
+    height: 100%;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	background-image: url(../img/moon/apartment-185779_1920.jpg);
+}
+
+#portada2{
+	width: 100%;
+    height: 100%;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	background-image: url(../img/img_header/pixa/fondo_blanco/whiteboard-849811_1920_left.jpg);
+}
+
+#portada3{
+	width: 100%;
+    height: 100%;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	background-image: url(../img/img_header/pixa/fondo_blanco/whiteboard-849811_1920_right.jpg);
+}
+
+#portada4{
+	width: 100%;
+    height: 100%;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	background-image: url(../img/moon/dining-1809844_1920.jpg);
+}
+
+
+
+
+
+#portada5 {
+    width: 100%;
+    height: 100%;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-image: url(../img/moon/faucet-3857471_1920_v2.jpg);
+}
+
+
+#portada6 {
+    width: 100%;
+    height: 100%;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-image: url(../img/moon/kitchen-2486092_1920.jpg);
+}
+
+#portada7 {
+    width: 100%;
+    height: 100%;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-image: url(../img/moon/render-1821635_1920.jpg);
+}
+
+/* syle del menu_2.jsp */
+#main {
+	transition: margin-left .5s;
+	 padding: 16px; 
+}
+
+.material-icons.size_icon_menu3 { font-size: 140px; }
+
+
+body{
+font-family: 'Roboto', sans-serif;
+}
+
+
+#opaco{
+    background-color: rgba(0,0,0,0.3);
+	
+}
+
+
+.side-nav li > a > i.material-icons {
+  float: left;
+  height: 48px;
+  line-height: 48px;
+  margin: 0 32px 0 0;
+  width: 24px;
+  color: #999c6d !important;
+}
+
+
+.slider .indicators .indicator-item.active {
+  background-color:  #999c6d !important;
+}
+
