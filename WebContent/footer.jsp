@@ -1,5 +1,5 @@
 
-<div class="content-block_st" id="contactenos"></div>
+<div class="" id="contactenos"></div>
 
 <footer class="page-footer grey darken-4">
 	<div class="container">

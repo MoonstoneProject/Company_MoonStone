@@ -231,6 +231,8 @@ PRICE - Price on request</span>
         </div>
       </div>
     </div><!-- /.container -->
+    
+    <jsp:include page="footer.jsp" />
 
     <!-- Core Javascript 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>-->
