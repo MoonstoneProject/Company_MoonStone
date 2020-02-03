@@ -22,7 +22,7 @@
 
 					<div class="row">
 						<div class="col s6 m6">
-							<div class="card-panel  grey darken-3">
+							<div class="card-panel blue-grey darken-1">
 								<h5>
 									
 									
@@ -95,7 +95,7 @@
         -->
 					<div class="row">
 						<div class="col s6 s6">
-							<div class="card-panel grey darken-3  ">
+							<div class="card-panel blue-grey darken-1  ">
 								<h5>
 									<span class="white-text thin">Via discussions and meetings with you, we will bring your vision to life. 
 									During the initial planning process, 
@@ -160,7 +160,7 @@
 
 					<div class="row">
 						<div class="col s6 s6">
-							<div class="card-panel grey darken-3">
+							<div class="card-panel blue-grey darken-1">
 								<h5>
 									<span class="white-text thin">As stone specialists, we have the interior design knowledge and the 
 									technical experience to make even the most challenging ideas, come to life. </span>
