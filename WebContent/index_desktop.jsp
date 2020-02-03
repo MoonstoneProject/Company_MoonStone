@@ -5,7 +5,9 @@
 
 	
 	<jsp:include page="menu_moon.jsp" />
+	<jsp:include page="menuSocialMediaIcons_moon.jsp" />
 	<jsp:include page="Portada_moon.jsp" />
 	<jsp:include page="footer.jsp" />
+	
 
 

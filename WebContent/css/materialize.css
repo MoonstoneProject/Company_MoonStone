@@ -1680,7 +1680,7 @@
 }
 
 .orange-text.text-lighten-3 {
-  color: #ffcc80 !important;
+  color: #999999 !important;
 }
 
 .orange.lighten-2 {
@@ -2552,7 +2552,7 @@ ul:not(.browser-default) li {
 }
 
 a {
-  color: #039be5;
+  color: #999999;
   text-decoration: none;
   -webkit-tap-highlight-color: transparent;
 }
@@ -4362,6 +4362,13 @@ nav .input-field label.active i {
 
 a {
   text-decoration: none;
+}
+
+a:hover{
+	
+	color:white;
+	transition: .5s all ease;
+	
 }
 
 html {

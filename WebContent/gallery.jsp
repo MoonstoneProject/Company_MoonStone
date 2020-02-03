@@ -232,6 +232,7 @@ PRICE - Price on request</span>
       </div>
     </div><!-- /.container -->
     
+    <jsp:include page="menuSocialMediaIcons_moon.jsp" />
     <jsp:include page="footer.jsp" />
 
     <!-- Core Javascript 

@@ -18,9 +18,14 @@
 
 <link type="text/css" rel="stylesheet" href="css/materialize-social.css"
 	media="screen,projection" />
-
+<!--  
 <link type="text/css" rel="stylesheet" href="css/font-awesome.css"
 	media="screen,projection" />
+-->
+	
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
+	
+	
 
 <link type="text/css" rel="stylesheet" href="css/styles_project.css"
 	media="screen,projection" />

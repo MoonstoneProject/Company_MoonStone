@@ -1,7 +1,7 @@
 
 <div class="" id="contactenos"></div>
 
-<footer class="page-footer grey darken-4">
+<footer class="page-footer darken-4">
 	<div class="container">
 		<div class="row">
 			<div class="col l4 s4">
@@ -10,8 +10,7 @@
 				    <li><i class="tiny material-icons circle">location_on</i> Direccion: Cll 44 #7-82</li>
 					<li><i class="tiny material-icons circle">phone</i> Atencion al cliente: (57) 300-6601593</li>
 					<li><i class="tiny material-icons circle">phone</i> Ventas: (57) 350-3089925</li>
-					<li><i class="tiny material-icons circle">location_on</i>
-					<t> Bogota, Colombia.</li>
+					<li><i class="tiny material-icons circle">location_on</i>Bogota, Colombia.</li>
 				</ul>
 			</div>
 			
@@ -71,7 +70,7 @@
 	
 	<div class="footer-copyright">
 		<div class="container center thin">
-			2018 | Logical Designe Groups S.A.S. © All Rights Reserved
+			Copyright ©2020 All rights reserved | Moonstone
 			
 			<!--  <a class="grey-text text-lighten-4 right" href="#!">More Links</a>  -->
 		</div>
