@@ -41,37 +41,37 @@
 }
 
 .facebook_ {
-  background: #3B5998;
+  background: #999c6d;
   color: white;
 }
 
 .twitter_ {
-  background: #55ACEE;
+  background: #999c6d;
   color: white;
 }
 
 .google {
-  background: #dd4b39;
+  background: #999c6d;
   color: white;
 }
 
 .linkedin {
-  background: #007bb5;
+  background: #999c6d;
   color: white;
 }
 
 .youtube {
-  background: #bb0000;
+  background: #999c6d;
   color: white;
 }
 .instagram_ {
-  background: #de6d6d;
+  background: #999c6d;
   color: white;
 }
 
 
 .whatsapp {
-  background: #25d366;
+  background: #999c6d;
   color: white;
 }
 

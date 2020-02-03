@@ -48,7 +48,11 @@
         <div class="e">
           <div class="d gu hz">
             <div id="gallery-expand" class="scrollspy">
-              <h3></h3><br><br>
+              <br><br>
+              <div class="title-wrapper">
+              <h4 class="gallery-header">Granite</h4>
+              </div>
+              
               <p class="ef">We have a wide selection of Granite Tiles to choose from sourced from the best quarries in the world. All our tiles can be viewed in our showroom and warehouse before purchasing. 
               We are based in London and all our tiles are available to buy today.</p>
 

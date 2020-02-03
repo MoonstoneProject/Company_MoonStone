@@ -22,8 +22,8 @@
 
 
 			<li class="li_st"><a href="#inicio" ><i class="medium material-icons">home</i><span class="menu_4_label thin" >Home</span></a></li>
-			<li class="li_st"><a href="gallery.jsp"><i class="medium material-icons">zoom_in</i><span class="menu_4_label thin"  >Products</span></a></li>
-			<li class="li_st"><a href="#technologies" ><i class="medium material-icons">wb_incandescent</i><span class="menu_4_label thin" >Services</span></a></li>
+			<li class="li_st"><a href="gallery.jsp"><i class="medium material-icons">zoom_in</i><span class="menu_4_label thin"  >Granite</span></a></li>
+			<li class="li_st"><a href="#technologies" ><i class="medium material-icons">wb_incandescent</i><span class="menu_4_label thin" >Quartzite</span></a></li>
 			<li class="li_st"><a href="#aboutUs" ><i class="medium material-icons">mood</i><span class="menu_4_label thin"  >Gallery</span></a></li>
 			<li class="li_st"><a href="#clients" ><i class="medium material-icons">supervisor_account</i><span class="menu_4_label thin"  >Clients</span></a></li>
 			<li class="li_st"><a href="#contactenos" ><i class="medium material-icons">chat</i><span class="menu_4_label thin" >Contact Us</span></a></li>
@@ -88,7 +88,7 @@
 
 
 	<div class="row">
-		<div class="col s10">
+		<div class="col s7">
 			<div id="main">
 				<span> <img
 						class="responsive-img" src="img/moon/logo_moon_294_131_v2.png">
@@ -108,15 +108,27 @@
 		
 		
 		
+		<div class="col s3 center-align">
 		
+		<!--  
+		<img class="responsive-img" src="img/moon/call_us_now2.png">
+		
+		     <div class="card-panel green">
+            <span class="white-text"> Call Us Now:  321-202-95-06  </span>
+              </div>
+              -->
+      </div>
 		
 		
 	
 		
 		<div class="col s2 right-align">
+		    
+		
+		
 				<div id="main">
-					<span>  <a href="#" data-activates="slide-out"
-						class="btn button-collapse btn-floating z-depth-2 grlight-green ">
+					<span> <a href="#" data-activates="slide-out"
+						class="btn button-collapse btn-floating z-depth-2 black">
 						<i class="material-icons ">menu</i> </a> 
 							<!--  <a href="#" data-activates="slide-out" class="btn btn-floating pulse"><i class="material-icons">menu</i></a>  -->
 		
