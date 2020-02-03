@@ -3163,7 +3163,7 @@ nav ul a span.cp {
 
 @media only screen and (min-width: 993px) {
 	.db {
-		width: 70%
+		width: 70%;
 	}
 }
 
@@ -8493,7 +8493,10 @@ nav .categories-wrapper .categories-container .categories>li {
 }
 
 #placeholder-navbar .back-btn {
-	padding: 0;
+	padding-left: 600;
+	padding-right:100;
+	padding-bottom:0;
+	padding-top:150;
 	border: none;
 	background-color: transparent
 }
