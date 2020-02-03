@@ -3359,7 +3359,7 @@ nav ul a span.badge {
 
 @media only screen and (min-width: 993px) {
   .container {
-    width: 70%;
+    width: 85%;
   }
 }
 
@@ -7113,7 +7113,10 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .side-nav li > a:hover {
-  background-color: rgba(0, 0, 0, 0.05);
+  /*background-color: rgba(0, 0, 0, 0.05);*/
+  background-color: black;
+  height: 100px;
+  padding: 32px;
 }
 
 .side-nav li > a.btn, .side-nav li > a.btn-large, .side-nav li > a.btn-large, .side-nav li > a.btn-flat, .side-nav li > a.btn-floating {

@@ -30,6 +30,9 @@
 -->
 
 <link type="text/css" rel="stylesheet" href="css/gallery-materialize.min.opt.css" media="screen,projection" />
+
+
+
     <!-- Material Icons -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
@@ -232,8 +235,9 @@ PRICE - Price on request</span>
       </div>
     </div><!-- /.container -->
     
-    <jsp:include page="menuSocialMediaIcons_moon.jsp" />
     <jsp:include page="footer.jsp" />
+    <jsp:include page="menuSocialMediaIcons_moon.jsp" />
+   
 
     <!-- Core Javascript 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>-->
@@ -241,6 +245,7 @@ PRICE - Price on request</span>
     <script src="js/materialize.min_0_98.js"></script>
     <script src="js/gallery-docs.min.opt.js" crossorigin="anonymous"></script>
 
+	 
   
 
 </body></html>

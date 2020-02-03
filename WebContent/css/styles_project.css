@@ -30,8 +30,8 @@ header.top-header {
 
 .menu_4_label{ 
 	padding-left: 30px !important;
-	    color: #ffc107 !important;
-	   /*   color: #fcfdf8 !important;*/
+	   /* color: #ffc107 !important;*/
+	      color: #fcfdf8 !important;
 }
 
 
@@ -163,6 +163,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 
+
 .slider .indicators .indicator-item.active {
   background-color:  #999c6d !important;
 }
@@ -172,4 +173,14 @@ font-family: 'Roboto', sans-serif;
   padding-top: 20px;
   background-color: #333 !important;
 }
+
+
+#mapmoon{
+	background-image: url(../img/moon/moonLocationMap.png);
+	border-radius: 10%;
+	alt:Paris;
+	width:350px ;
+	height:200px;
+}
+
 
