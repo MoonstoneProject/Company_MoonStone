@@ -110,9 +110,9 @@
 		
 		<div class="col s3 center-align">
 		
-		<!--  
+		 
 		<img class="responsive-img" src="img/moon/call_us_now2.png">
-		
+		<!-- 
 		     <div class="card-panel green">
             <span class="white-text"> Call Us Now:  321-202-95-06  </span>
               </div>
