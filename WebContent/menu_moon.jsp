@@ -21,30 +21,27 @@
 
 
 
-			<li class="li_st"><a href="#inicio" ><i class="medium material-icons">home</i><span class="menu_4_label thin" >Home</span></a></li>
-			<li class="li_st"><a href="gallery.jsp"><i class="medium material-icons">zoom_in</i><span class="menu_4_label thin"  >Granite</span></a></li>
-			<li class="li_st"><a href="#technologies" ><i class="medium material-icons">wb_incandescent</i><span class="menu_4_label thin" >Quartzite</span></a></li>
-			<li class="li_st"><a href="#aboutUs" ><i class="medium material-icons">mood</i><span class="menu_4_label thin"  >Gallery</span></a></li>
-			<li class="li_st"><a href="#clients" ><i class="medium material-icons">supervisor_account</i><span class="menu_4_label thin"  >Clients</span></a></li>
-			<li class="li_st"><a href="#contactenos" ><i class="medium material-icons">chat</i><span class="menu_4_label thin" >Contact Us</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/#inicio" ><i class="medium material-icons">home</i><span class="menu_4_label thin" >Home</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/gallery.jsp"><i class="medium material-icons">zoom_in</i><span class="menu_4_label thin"  >Granite</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/#comercial_gallery" ><i class="medium material-icons">mood</i><span class="menu_4_label thin"  >Gallery</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/#clients" ><i class="medium material-icons">supervisor_account</i><span class="menu_4_label thin"  >Testimonials</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/#contactenos" ><i class="medium material-icons">chat</i><span class="menu_4_label thin" >Contact Us</span></a></li>
 				
 		    
 		
-			<li class="li_st"><a href="#inicio" ><i class="medium material-icons">home</i><span class="menu_4_label thin" >Home</span></a></li>
-			<li class="li_st"><a href="#services"><i class="medium material-icons">zoom_in</i><span class="menu_4_label thin"  >Products</span></a></li>
-			<li class="li_st"><a href="#technologies" ><i class="medium material-icons">wb_incandescent</i><span class="menu_4_label thin" >Services</span></a></li>
-			<li class="li_st"><a href="#aboutUs" ><i class="medium material-icons">mood</i><span class="menu_4_label thin"  >Gallery</span></a></li>
-			<li class="li_st"><a href="#clients" ><i class="medium material-icons">supervisor_account</i><span class="menu_4_label thin"  >Clients</span></a></li>
-			<li class="li_st"><a href="#contactenos" ><i class="medium material-icons">chat</i><span class="menu_4_label thin" >Contact Us</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/#inicio" ><i class="medium material-icons">home</i><span class="menu_4_label thin" >Home</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/#services"><i class="medium material-icons">zoom_in</i><span class="menu_4_label thin"  >Granite</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/#aboutUs" ><i class="medium material-icons">mood</i><span class="menu_4_label thin"  >Gallery</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/#clients" ><i class="medium material-icons">supervisor_account</i><span class="menu_4_label thin"  >Testimonials</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/#contactenos" ><i class="medium material-icons">chat</i><span class="menu_4_label thin" >Contact Us</span></a></li>
 				
 			
 			
-			<li class="li_st"><a href="#inicio" ><i class="medium material-icons">home</i><span class="menu_4_label thin" >Home</span></a></li>
-			<li class="li_st"><a href="#services"><i class="medium material-icons">zoom_in</i><span class="menu_4_label thin"  >Products</span></a></li>
-			<li class="li_st"><a href="#technologies" ><i class="medium material-icons">wb_incandescent</i><span class="menu_4_label thin" >Services</span></a></li>
-			<li class="li_st"><a href="#aboutUs" ><i class="medium material-icons">mood</i><span class="menu_4_label thin"  >Gallery</span></a></li>
-			<li class="li_st"><a href="#clients" ><i class="medium material-icons">supervisor_account</i><span class="menu_4_label thin"  >Clients</span></a></li>
-			<li class="li_st"><a href="#contactenos" ><i class="medium material-icons">chat</i><span class="menu_4_label thin" >Contact Us</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/#inicio" ><i class="medium material-icons">home</i><span class="menu_4_label thin" >Home</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/#services"><i class="medium material-icons">zoom_in</i><span class="menu_4_label thin"  >Products</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/#aboutUs" ><i class="medium material-icons">mood</i><span class="menu_4_label thin"  >Gallery</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/#clients" ><i class="medium material-icons">supervisor_account</i><span class="menu_4_label thin"  >Testimonials</span></a></li>
+			<li class="li_st"><a href="http://localhost:8080/company_moonstone/#contactenos" ><i class="medium material-icons">chat</i><span class="menu_4_label thin" >Contact Us</span></a></li>
 					
 				
 				
@@ -111,8 +108,9 @@
 		<div class="col s3 center-align">
 		
 		 
-		<img class="responsive-img" src="img/moon/call_us_now2.png">
+		
 		<!-- 
+		<img class="responsive-img" src="img/moon/call_us_now2.png">
 		     <div class="card-panel green">
             <span class="white-text"> Call Us Now:  321-202-95-06  </span>
               </div>

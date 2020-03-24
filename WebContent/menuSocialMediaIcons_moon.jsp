@@ -71,7 +71,7 @@
 
 
 .whatsapp {
-  background: #999c6d;
+  background: #25D366;
   color: white;
 }
 

@@ -7,8 +7,7 @@
 <link rel="icon" type="image/png" href="img/moon/logo_mini_32_35.png" />
 
 <!--Import Google Icon Font-->
-<link href="http://fonts.googleapis.com/icon?family=Material+Icons"
-	rel="stylesheet">
+
 <!--Import materialize.css-->
 <link type="text/css" rel="stylesheet" href="css/materialize.css"
 	media="screen,projection" />
@@ -244,8 +243,9 @@ PRICE - Price on request</span>
    
 
     <!-- Core Javascript 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>-->
-    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>-->
+    <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
     <script src="js/materialize.min_0_98.js"></script>
     <script src="js/gallery-docs.min.opt.js" crossorigin="anonymous"></script>
 
