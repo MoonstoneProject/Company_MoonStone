@@ -21,7 +21,7 @@
 
 
 					<div class="row">
-						<div class="col s6 m6">
+						<div class="col s12 m12">
 							<div class="card-panel blue-grey darken-1">
 								<h5>
 									
@@ -62,7 +62,7 @@
           <h5 class="light black-text text-lighten-3"> provee un proceso completo para los servicios de testing de aplicaciones que permite identificar el nivel de calidad del producto</h5>
        -->
 					<div class="row">
-						<div class="col s6 offset-s6">
+						<div class="col s12 m12">
 							<div class="card-panel blue-grey darken-1  ">
 								<h5>
 									<span class="white-text thin">The Best Natural Stone Specialists While serving our clients, 
@@ -94,7 +94,7 @@
           <h5 class="light black-text text-lighten-3">Servicios de desarrollo de software basado en las mejores prácticas del mercado</h5>
         -->
 					<div class="row">
-						<div class="col s6 s6">
+						<div class="col s12 s12">
 							<div class="card-panel blue-grey darken-1  ">
 								<h5>
 									<span class="white-text thin">Via discussions and meetings with you, we will bring your vision to life. 
@@ -134,7 +134,7 @@
         -->
 
 					<div class="row">
-						<div class="col s6 offset-s6">
+						<div class="col s12 m12">
 							<div class="card-panel blue-grey darken-1  ">
 								<h5>
 									<span class="white-text thin">Our aim is to offer an inclusive service to our clients; to take them from just a mere thought, 
@@ -159,7 +159,7 @@
 				<div class="caption left-align ">
 
 					<div class="row">
-						<div class="col s6 s6">
+						<div class="col s12 s12">
 							<div class="card-panel blue-grey darken-1">
 								<h5>
 									<span class="white-text thin">As stone specialists, we have the interior design knowledge and the 

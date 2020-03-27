@@ -69,7 +69,7 @@
                       <p></p>
                     </div>
                     <div class="gallery-body" style="margin-top: 229px; padding: 40px; min-height: 436px; display: none;">
-                      <div class="title-wrapper" style="">
+                      <div class="title-wrapper" style=""><br>
                         <h3>Juparana-India</h3>
                         <span class="gk">Please see below for more information on the Juparana-India Granite Tiles that we have in stock.
                       SIZE (mm) - 305×305, 400×400, 450×450, 600×600
@@ -100,7 +100,7 @@
                       <p></p>
                     </div>
                     <div class="gallery-body" style="margin-top: 229px; padding: 40px; min-height: 436px; display: none;">
-                      <div class="title-wrapper" style="">
+                      <div class="title-wrapper" style=""><br>
                         <h3>kashmir-gold</h3>
                         <span class="gk">Please see below for more information on the kashmir-gold Granite Tiles that we have in stock. 
                       SIZE (mm) - 305×305, 400×400, 450×450, 600×600
@@ -127,7 +127,7 @@
                       <p></p>
                     </div>
                     <div class="gallery-body" style="margin-top: 219px; padding: 40px; min-height: 446px; display: none;">
-                      <div class="title-wrapper" style="">
+                      <div class="title-wrapper" style=""><br>
                         <h3>Kashmir-White</h3>
                         <span class="gj">Please see below for more information on the Kashmir-White Granite Tiles that we have in stock.
                       SIZE (mm) - 305×305, 400×400, 450×450, 600×600
@@ -159,7 +159,7 @@
                       <span>Angola Gold Granite Tiles</span>
                     </div>
                     <div class="gallery-body" style="margin-top: 229px; padding: 40px; min-height: 436px; display: none;">
-                      <div class="title-wrapper" style="">
+                      <div class="title-wrapper" style=""><br>
                         <h4>Angola Gold Granite Tiles</h4>
                         <span class="gk">Please see below for more information on the Angola Gold Granite Tiles that we have in stock. 
                         <br>SIZE (mm) - 305×305, 400×400, 450×450, 600×600
@@ -188,7 +188,7 @@
                       <span>African Red Granite Tiles</span>
                     </div>
                     <div class="gallery-body" style="margin-top: 229px; padding: 40px; min-height: 436px; display: none;">
-                      <div class="title-wrapper" style="">
+                      <div class="title-wrapper" style=""><br>
                         <h3>African Red Granite Tiles</h3>
                         <span class="gj">Please see below for more information on the African Red Granite Tiles that we have in stock. 
                         SIZE (mm) - 305×305, 400×400, 450×450, 600×600
@@ -220,7 +220,7 @@
                       <span>Bianco Galaxy Granite Tiles</span>
                     </div>
                     <div class="gallery-body" style="margin-top: 219px; padding: 40px; min-height: 446px; display: none;">
-                      <div class="title-wrapper" style="">
+                      <div class="title-wrapper" style=""><br>
                         <h3>Bianco Galaxy Granite Tiles</h3>
                         <span class="gj">Please see below for more information on the Bianco Galaxy Granite Tiles that we have in stock.
 SIZE (mm) - 305×305, 400×400, 450×450, 600×600
@@ -249,7 +249,7 @@ PRICE - Price on request</span>
                       <p></p>
                     </div>
                     <div class="gallery-body" style="margin-top: 229px; padding: 40px; min-height: 436px; display: none;">
-                      <div class="title-wrapper" style="">
+                      <div class="title-wrapper" style=""><br>
                         <h3>Balmoral-Red</h3>
                         <span class="gk">Please see below for more information on the Balmoral Red Granite Tiles that we have in stock.
                       SIZE (mm) - 305×305, 400×400, 450×450, 600×600
@@ -280,7 +280,7 @@ PRICE - Price on request</span>
                       <p></p>
                     </div>
                     <div class="gallery-body" style="margin-top: 229px; padding: 40px; min-height: 436px; display: none;">
-                      <div class="title-wrapper" style="">
+                      <div class="title-wrapper" style=""><br>
                         <h3>Baltic-Brown</h3>
                         <span class="gk">Please see below for more information on the Baltic Brown Granite Tiles that we have in stock. 
                       SIZE (mm) - 305×305, 400×400, 450×450, 600×600
@@ -307,7 +307,7 @@ PRICE - Price on request</span>
                       <p></p>
                     </div>
                     <div class="gallery-body" style="margin-top: 219px; padding: 40px; min-height: 446px; display: none;">
-                      <div class="title-wrapper" style="">
+                      <div class="title-wrapper" style=""><br>
                         <h3>Bianco Antico Granite</h3>
                         <span class="gj">Please see below for more information on the Bianco Antico Granite Tiles that we have in stock.
                       SIZE (mm) - 305×305, 400×400, 450×450, 600×600

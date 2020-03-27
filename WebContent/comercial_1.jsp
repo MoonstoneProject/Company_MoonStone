@@ -1,11 +1,12 @@
 <!--************************************** Comercial  **************************************-->
 
+
 <div class="content-block_st" id="comercial_gallery">
 	<div class="container">
 		<div class="row">
 			<div class="col s12 ">
 				<div class="caption center-align light blue-text text-lighten-2">
-					<br>
+					<br><br><br>
 					<h3 class="thin">Gallery</h3>
 				</div>
 
@@ -20,7 +21,6 @@
 		</div>
 	</div>
 
-
 	<div class="parallax-container">
 		<div class="parallax">
 			<img src="img/moon/livingroom.jpg">
@@ -28,7 +28,11 @@
 	</div>
 
 
-</div>
+    
+  </div>  
+
+
+
 
 
 
