@@ -54,9 +54,9 @@
 				<h5 class="white-text thin">Product Links</h5>
 				<br>
 				<ul class="grey-text text-lighten-3 thin">
-					<li><a href="gallery_granite_phone.jsp"><i class="tiny material-icons circle">check_circle</i> </a> Granite</li>
+					<li><a href="gallery_granite_phone.jsp"><i class="tiny material-icons circle">check_circle</i>  Granite</a></li>
 					<li><a href="index.jsp#comercial_gallery"><i class="tiny material-icons circle">wb_incandescent</i> Gallery</a></li>
-					<li><a href="#"><i class="tiny material-icons circle">check_circle</i> </a>Others</li>
+					<li><a href="#"><i class="tiny material-icons circle">check_circle</i> Others</a></li>
 				</ul>
 			</div>
 			

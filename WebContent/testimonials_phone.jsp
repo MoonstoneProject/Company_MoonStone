@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col s10 ">
-				<div class="caption center-align light green-text text-lighten-2"><br>
+				<div class="caption center-align light green-text text-lighten-2"><br><br><br>
 					<h3 class="thin">Testimonials</h3>
 				</div>
 				<div class="caption left-align light text-lighten-1 thin">
