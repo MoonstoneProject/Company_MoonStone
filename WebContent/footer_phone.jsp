@@ -35,11 +35,10 @@
 				<h5 class="white-text thin">Quick Links</h5>
 				<br>
 				<ul class="grey-text text-lighten-3 thin">
-					<li><a href="#services"><i class="tiny material-icons circle">zoom_in</i> Soluciones y servicios</a></li>
-					<li><a href="#technologies"><i class="tiny material-icons circle">wb_incandescent</i> Tecnologias</a></li>
-					<li><a href="#aboutUs"><i class="tiny material-icons circle">mood</i> Nosotros</a></li>
-					<li><a href="#clients"><i class="tiny material-icons circle">supervisor_account</i> Tipos de clientes</a></li>
-					<li><a href="#form1"><i class="tiny material-icons circle">chat</i> Contactenos</a></li>
+					<li><a href="../company_moonstone/#inicio"><i class="tiny material-icons circle">zoom_in</i> Home</a></li>
+					<li><a href="../company_moonstone/#comercial_gallery"><i class="tiny material-icons circle">wb_incandescent</i> Gallery</a></li>
+					<li><a href="../company_moonstone/#clients"><i class="tiny material-icons circle">mood</i> Testimonials</a></li>
+					<li><a href="../company_moonstone/#contactenos"><i class="tiny material-icons circle">chat</i> Contact Us</a></li>
 				</ul>
 			</div>
 			
@@ -55,11 +54,9 @@
 				<h5 class="white-text thin">Product Links</h5>
 				<br>
 				<ul class="grey-text text-lighten-3 thin">
-					<li><a href="#services"><i class="tiny material-icons circle">check_circle</i> Consultoria TI</li>
-					<li><a href="#services"><i class="tiny material-icons circle">check_circle</i> Desarrollo de software</li>
-					<li><a href="#services"><i class="tiny material-icons circle">check_circle</i> Desarrollo de aplicaciones Moviles</li>
-					<li><a href="#services"><i class="tiny material-icons circle">check_circle</i> Administracion de servidores linux</li>
-					<li><a href="#services"><i class="tiny material-icons circle">check_circle</i> Testing de aplicaciones</li>
+					<li><a href="../company_moonstone/gallery_granite_phone.jsp"><i class="tiny material-icons circle">check_circle</i> </a> Granite</li>
+					<li><a href="../company_moonstone/#comercial_gallery"><i class="tiny material-icons circle">wb_incandescent</i> Gallery</a></li>
+					<li><a href="#"><i class="tiny material-icons circle">check_circle</i> </a>Others</li>
 				</ul>
 			</div>
 			
