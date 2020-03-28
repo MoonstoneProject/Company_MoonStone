@@ -25,10 +25,10 @@
 				<h5 class="white-text thin">Quick Links</h5>
 				<br>
 				<ul class="grey-text text-lighten-3 thin">
-					<li><a href="../company_moonstone/#inicio"><i class="tiny material-icons circle">zoom_in</i> Home</a></li>
-					<li><a href="../company_moonstone/#comercial_gallery"><i class="tiny material-icons circle">wb_incandescent</i> Gallery</a></li>
-					<li><a href="../company_moonstone/#clients"><i class="tiny material-icons circle">mood</i> Testimonials</a></li>
-					<li><a href="../company_moonstone/#contactenos"><i class="tiny material-icons circle">chat</i> Contact Us</a></li>
+					<li><a href="index.jsp#inicio"><i class="tiny material-icons circle">zoom_in</i> Home</a></li>
+					<li><a href="index.jsp#comercial_gallery"><i class="tiny material-icons circle">wb_incandescent</i> Gallery</a></li>
+					<li><a href="index.jsp#clients"><i class="tiny material-icons circle">mood</i> Testimonials</a></li>
+					<li><a href="index.jsp#contactenos"><i class="tiny material-icons circle">chat</i> Contact Us</a></li>
 				</ul>
 			</div>
 			
@@ -44,8 +44,8 @@
 				<h5 class="white-text thin">Product Links</h5>
 				<br>
 				<ul class="grey-text text-lighten-3 thin">
-					<li><a href="../company_moonstone/gallery_granite.jsp"><i class="tiny material-icons circle">check_circle</i>  Granite</a></li>
-					<li><a href="../company_moonstone/#comercial_gallery"><i class="tiny material-icons circle">wb_incandescent</i> Gallery</a></li>
+					<li><a href="gallery_granite.jsp"><i class="tiny material-icons circle">check_circle</i>  Granite</a></li>
+					<li><a href="index.jsp#comercial_gallery"><i class="tiny material-icons circle">wb_incandescent</i> Gallery</a></li>
 					<li><a href="#"><i class="tiny material-icons circle">check_circle</i> Others</a></li>
 				</ul>
 			</div>
