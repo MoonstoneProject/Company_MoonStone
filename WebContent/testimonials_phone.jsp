@@ -43,7 +43,7 @@
 			<div class="col s12 ">
 				<div class="card">
 					<div class="card-image waves-effect waves-block waves-light">
-						<img class="activator" src="img/moon/testimonials/testimo_2.png">
+						<img class="activator" src="img/moon/testimonials/testimo_2-min.png">
 					</div>
 					<div class="card-content">
 						<span class="card-title activator grey-text text-darken-4 thin">- Timothy Pask <i class="material-icons right">more_vert</i>
