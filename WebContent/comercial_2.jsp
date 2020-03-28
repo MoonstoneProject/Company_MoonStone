@@ -1,7 +1,7 @@
 <!--************************************** Comercial **************************************  -->
 	<div class="parallax-container">
 		<div class="parallax">
-			<img src="img/moon/kitchen-1940174_1920.jpg">
+			<img src="img/moon/kitchen-1940174_1920-min.jpg">
 		</div>
 	</div>
 <br>
