@@ -36,7 +36,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 
-	<jsp:include page="menu_moon.jsp" />
+	<jsp:include page="menu_moon_phone_granite.jsp" />
 
 
   <body class="doc" style="">
@@ -363,8 +363,9 @@ PRICE - Price on request</span>
 
     <!-- Core Javascript 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>-->
-    <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+      <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+   -->
+   <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="js/materialize.min_0_98.js"></script>
     <script src="js/gallery-docs.min.opt.js" crossorigin="anonymous"></script>
 

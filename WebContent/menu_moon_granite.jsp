@@ -21,26 +21,29 @@
 
 
 
-			<li class="li_st"><a href="#inicio" ><i class="medium material-icons">home</i><span class="menu_4_label thin" >Home</span></a></li>
+			<li class="li_st"><a href="index.jsp#inicio" ><i class="medium material-icons">home</i><span class="menu_4_label thin" >Home</span></a></li>
 			<li class="li_st"><a href="gallery_granite.jsp"><i class="medium material-icons">zoom_in</i><span class="menu_4_label thin"  >Granite</span></a></li>
-			<li class="li_st"><a href="#comercial_gallery" ><i class="medium material-icons">mood</i><span class="menu_4_label thin"  >Gallery</span></a></li>
-			<li class="li_st"><a href="#clients" ><i class="medium material-icons">supervisor_account</i><span class="menu_4_label thin"  >Testimonials</span></a></li>
-			<li class="li_st"><a href="#contactenos" ><i class="medium material-icons">chat</i><span class="menu_4_label thin" >Contact Us</span></a></li>
-					
-		
-			<li class="li_st"><a href="#inicio" ><i class="medium material-icons">home</i><span class="menu_4_label thin" >Home</span></a></li>
-			<li class="li_st"><a href="gallery_granite.jsp"><i class="medium material-icons">zoom_in</i><span class="menu_4_label thin"  >Granite</span></a></li>
-			<li class="li_st"><a href="#comercial_gallery" ><i class="medium material-icons">mood</i><span class="menu_4_label thin"  >Gallery</span></a></li>
-			<li class="li_st"><a href="#clients" ><i class="medium material-icons">supervisor_account</i><span class="menu_4_label thin"  >Testimonials</span></a></li>
-			<li class="li_st"><a href="#contactenos" ><i class="medium material-icons">chat</i><span class="menu_4_label thin" >Contact Us</span></a></li>
+			<li class="li_st"><a href="index.jsp#comercial_gallery" ><i class="medium material-icons">mood</i><span class="menu_4_label thin"  >Gallery</span></a></li>
+			<li class="li_st"><a href="index.jsp#clients" ><i class="medium material-icons">supervisor_account</i><span class="menu_4_label thin"  >Testimonials</span></a></li>
+			<li class="li_st"><a href="index.jsp#contactenos" ><i class="medium material-icons">chat</i><span class="menu_4_label thin" >Contact Us</span></a></li>
 				
+		    
 		
-			<li class="li_st"><a href="#inicio" ><i class="medium material-icons">home</i><span class="menu_4_label thin" >Home</span></a></li>
+			<li class="li_st"><a href="index.jsp#inicio" ><i class="medium material-icons">home</i><span class="menu_4_label thin" >Home</span></a></li>
 			<li class="li_st"><a href="gallery_granite.jsp"><i class="medium material-icons">zoom_in</i><span class="menu_4_label thin"  >Granite</span></a></li>
-			<li class="li_st"><a href="#comercial_gallery" ><i class="medium material-icons">mood</i><span class="menu_4_label thin"  >Gallery</span></a></li>
-			<li class="li_st"><a href="#clients" ><i class="medium material-icons">supervisor_account</i><span class="menu_4_label thin"  >Testimonials</span></a></li>
-			<li class="li_st"><a href="#contactenos" ><i class="medium material-icons">chat</i><span class="menu_4_label thin" >Contact Us</span></a></li>
-				
+			<li class="li_st"><a href="index.jsp#comercial_gallery" ><i class="medium material-icons">mood</i><span class="menu_4_label thin"  >Gallery</span></a></li>
+			<li class="li_st"><a href="index.jsp#clients" ><i class="medium material-icons">supervisor_account</i><span class="menu_4_label thin"  >Testimonials</span></a></li>
+			<li class="li_st"><a href="index.jsp#contactenos" ><i class="medium material-icons">chat</i><span class="menu_4_label thin" >Contact Us</span></a></li>
+			
+		
+		
+			<li class="li_st"><a href="index.jsp#inicio" ><i class="medium material-icons">home</i><span class="menu_4_label thin" >Home</span></a></li>
+			<li class="li_st"><a href="gallery_granite.jsp"><i class="medium material-icons">zoom_in</i><span class="menu_4_label thin"  >Granite</span></a></li>
+			<li class="li_st"><a href="index.jsp#comercial_gallery" ><i class="medium material-icons">mood</i><span class="menu_4_label thin"  >Gallery</span></a></li>
+			<li class="li_st"><a href="index.jsp#clients" ><i class="medium material-icons">supervisor_account</i><span class="menu_4_label thin"  >Testimonials</span></a></li>
+			<li class="li_st"><a href="index.jsp#contactenos" ><i class="medium material-icons">chat</i><span class="menu_4_label thin" >Contact Us</span></a></li>
+			 
+			
 				
 		    
 				
