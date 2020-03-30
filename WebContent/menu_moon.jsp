@@ -87,7 +87,7 @@
 		<div class="col s7">
 			<div id="main">
 				<span> <img
-						class="responsive-img" src="img/moon/logo_moon_294_131_v2.png">
+						class="responsive-img" src="img/moon/logo_moon_294_131_v2.png" style="opacity: 1; filter: drop-shadow( 1px 0px white);">
 				<!--  <a href="#" data-activates="slide-out" class="btn btn-floating pulse"><i class="material-icons">menu</i></a>  -->
 				
 				

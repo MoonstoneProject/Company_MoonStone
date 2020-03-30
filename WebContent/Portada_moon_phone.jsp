@@ -13,7 +13,7 @@
 		
 			
 			<li>
-				<div id="portada1"></div> <!--    <img src="img/img_header/pixa/fondo_blanco/entrepreneur-696976_1920_left.jpg"> -->
+				<div id="portada4"></div> <!--    <img src="img/img_header/pixa/fondo_blanco/entrepreneur-696976_1920_left.jpg"> -->
 				<!-- random image -->
 				<div class="caption left-align light black-text text-lighten-3">
 					<!-- <h3>This is our big Tagline!</h3>
@@ -55,7 +55,7 @@
 
 
 
-				<div id="portada4"></div> <!--    <img src="img/img_header/pixa/fondo_blanco/entrepreneur-696976_1920_left.jpg"> -->
+				<div id="portada6"></div> <!--    <img src="img/img_header/pixa/fondo_blanco/entrepreneur-696976_1920_left.jpg"> -->
 				<!-- random image -->
 				<div class="caption right-align light black-text text-lighten-3">
 					<!--     <h3>This is our big Tagline!</h3>
@@ -81,7 +81,7 @@
 		
 				<li>
 		    	
-				<div id="portada6"></div> <!--    <img src="img/img_header/pixa/fondo_blanco/entrepreneur-696976_1920_left.jpg"> -->
+				<div id="portada1"></div> <!--    <img src="img/img_header/pixa/fondo_blanco/entrepreneur-696976_1920_left.jpg"> -->
 			
 			
 			
