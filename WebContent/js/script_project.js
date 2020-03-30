@@ -6,18 +6,14 @@
 //$('.collapsible').collapsible();
 
 
- 
+$('.button-collapse').sideNav({
+      menuWidth: 260, // Default is 240 -- 110  -- 500 menu ancho con menu_3.jsp
+      edge: 'left', // Choose the horizontal origin
+      closeOnClick: true // Closes side-nav on <a> clicks, useful for Angular/Meteor
+    }
+  );  
   
- 
-$(document).ready(function() {
-	$('.button-collapse').sideNav({
-	      menuWidth: 260, // Default is 240 -- 110  -- 500 menu ancho con menu_3.jsp
-	      edge: 'left', // Choose the horizontal origin
-	      closeOnClick: true // Closes side-nav on <a> clicks, useful for Angular/Meteor
-	    }
-	  ); 
-	
-});
+  
   
 
 
@@ -35,10 +31,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
 	$('.slider').slider({
-		dist: 0,
-		full_width : true,
-		indicators: true,
-		duration: 100,
+		full_width : true
 	});
 	// Pause slider
 	$('.slider').slider('pause');
@@ -50,6 +43,7 @@ $(document).ready(function() {
 	$('.slider').slider('prev');
 
 });
+
 
 
 
