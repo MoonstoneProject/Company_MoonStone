@@ -84,10 +84,8 @@
 
 <div class="icon-bar_st">
   <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmoonstonerenovations.com&t=Moon%20stone" class="facebook_"><i class="fa fa-facebook"></i></a> 
-   <a href="https://api.whatsapp.com/send?phone=13212029506" class="whatsapp"><i class="fa fa-whatsapp"></i></a>
-   <a href="http://twitter.com/intent/tweet?text=Check%20out%20this%20GoDaddy%20hosted%20webpage!%20http%3A%2F%2Fmoonstonerenovations.com." class="twitter_"><i class="fa fa-twitter"></i></a> 
+   <a href="https://api.whatsapp.com/send?phone=13212029506" class="whatsapp"><i class="fa fa-whatsapp"></i></a> 
    <a href="#" class="instagram_"><i class="fa fa-instagram"></i></a> 
-     <a href="#" class="youtube"><i class="fa fa-youtube"></i></a> 
   
   
   <!-- 

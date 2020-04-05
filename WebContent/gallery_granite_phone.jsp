@@ -56,24 +56,24 @@
               We are based in London and all our tiles are available to buy today.</p>
               
               
-              
+          
+                
               
               <div class="b">
                 <div class="d hf gu gallery-expand" style="position: relative;"><div class="placeholder">
                   <div class="gallery-curve-wrapper">
                     <a class="gallery-cover gray" >
-                      <img class="responsive-img"  src="img/moon/materials/Juparana-India.jpg?0"  crossorigin="anonymous" alt="placeholder">
+                      <img class="responsive-img"  src="img/moon/acegraniteflorida/Item_Img_87_absoluteleather003_1000.jpg"  crossorigin="anonymous" alt="placeholder">
                     </a>
                     <div class="gallery-header">
-                      <span>Juparana-India</span>
-                      <p></p>
+                      <span>Absolute Black Leather</span>
+                      <p>For more information please click the image.</p>
                     </div>
                     <div class="gallery-body" style="margin-top: 229px; padding: 40px; min-height: 436px; display: none;">
                       <div class="title-wrapper" style=""><br>
-                        <h3>Juparana-India</h3>
-                        <span class="gk">Please see below for more information on the Juparana-India Granite Tiles that we have in stock.
-                      SIZE (mm) - 305×305, 400×400, 450×450, 600×600
-                      PRICE - Price on request</span>
+                        <h3>Absolute Black Leather</h3>
+                        <span class="gk">Absolute Black Leather 3c <br> SLAB	  |   Granite
+                        </span>
                       </div>
                     </div>
                     <div class="gallery-action" style="top: 229px;">
@@ -93,18 +93,17 @@
                 <div class="d hf gu gallery-expand" style="position: relative;"><div class="placeholder">
                   <div class="gallery-curve-wrapper">
                     <a class="gallery-cover gray" >
-                      <img class="responsive-img" src="img/moon/materials/kashmir-gold.png?0" crossorigin="anonymous" alt="placeholder">
+                      <img class="responsive-img" src="img/moon/acegraniteflorida/Item_Img_90_AlaskaL1173-x001_1000.jpg" crossorigin="anonymous" alt="placeholder">
                     </a>
                     <div class="gallery-header">
-                      <span>kashmir-gold</span>
-                      <p></p>
+                      <span>Alaska</span>
+                      <p>For more information please click the image.</p>
                     </div>
                     <div class="gallery-body" style="margin-top: 229px; padding: 40px; min-height: 436px; display: none;">
                       <div class="title-wrapper" style=""><br>
-                        <h3>kashmir-gold</h3>
-                        <span class="gk">Please see below for more information on the kashmir-gold Granite Tiles that we have in stock. 
-                      SIZE (mm) - 305×305, 400×400, 450×450, 600×600
-                      PRICE - Price on request</span>
+                        <h3>Alaska</h3>
+                        <span class="gk">Alaska 3cm <br>
+SLAB  |   Granite</span>
                       </div>
                     </div>
                     <div class="gallery-action" style="top: 229px;">
@@ -120,18 +119,17 @@
                 <div class="d hf gu gallery-expand" style="position: relative;"><div class="placeholder">
                   <div class="gallery-curve-wrapper">
                     <a class="gallery-cover gray">
-                      <img class="responsive-img" src="img/moon/materials/Kashmir-White.jpg" crossorigin="anonymous" alt="placeholder">
+                      <img class="responsive-img" src="img/moon/acegraniteflorida/Item_Img_96_AbsoluteCreamBordeaux_1000.jpg" crossorigin="anonymous" alt="placeholder">
                     </a>
                     <div class="gallery-header">
-                      <span>Kashmir-White</span>
-                      <p></p>
+                      <span>Absolute Cream Bordeaux</span>
+                      <p>For more information please click the image.</p>
                     </div>
                     <div class="gallery-body" style="margin-top: 219px; padding: 40px; min-height: 446px; display: none;">
                       <div class="title-wrapper" style=""><br>
-                        <h3>Kashmir-White</h3>
-                        <span class="gj">Please see below for more information on the Kashmir-White Granite Tiles that we have in stock.
-                      SIZE (mm) - 305×305, 400×400, 450×450, 600×600
-                      PRICE - Price on request</span>
+                        <h3>Absolute Cream Bordeaux</h3>
+                        <span class="gj">Absolute Cream Bordeaux 3 <br> SLAB	  |   Granite
+                      </span>
                       </div>
                     </div>
                     <div class="gallery-action" style="top: 219px;">
@@ -153,17 +151,16 @@
                   <div class="gallery-curve-wrapper">
                     <a class="gallery-cover gray" >
                       <img class="responsive-img"  
-                      src="img/moon/materials/angola-gold.jpg?0" crossorigin="anonymous" alt="placeholder">
+                      src="img/moon/acegraniteflorida/Item_Img_127_AbstractBrown3cm_1000.jpg" crossorigin="anonymous" alt="placeholder">
                     </a>
                     <div class="gallery-header">
-                      <span>Angola Gold Granite Tiles</span>
+                      <span>Abstract Brown</span>
+                      <p>For more information please click the image.</p>
                     </div>
                     <div class="gallery-body" style="margin-top: 229px; padding: 40px; min-height: 436px; display: none;">
                       <div class="title-wrapper" style=""><br>
-                        <h4>Angola Gold Granite Tiles</h4>
-                        <span class="gk">Please see below for more information on the Angola Gold Granite Tiles that we have in stock. 
-                        <br>SIZE (mm) - 305×305, 400×400, 450×450, 600×600
-                        <br>PRICE - Price on reques
+                        <h4>Abstract Brown 3cm</h4>
+                        <span class="gk"> Abstract Brown 3cm <br> SLAB	  |   Granite
                         
                         </span>
                       </div>
@@ -182,17 +179,17 @@
                   <div class="gallery-curve-wrapper">
                     <a class="gallery-cover gray">
                       <img class="responsive-img" 
-                      src="img/moon/materials/African-Red.jpg?0" crossorigin="anonymous" alt="placeholder">
+                      src="img/moon/acegraniteflorida/Item_Img_292_Absolute Black_1000.jpg?0" crossorigin="anonymous" alt="placeholder">
                     </a>
                     <div class="gallery-header">
-                      <span>African Red Granite Tiles</span>
+                      <span>Absolute Black 2cm</span>
+                      <p>For more information please click the image.</p>
                     </div>
                     <div class="gallery-body" style="margin-top: 229px; padding: 40px; min-height: 436px; display: none;">
                       <div class="title-wrapper" style=""><br>
-                        <h3>African Red Granite Tiles</h3>
-                        <span class="gj">Please see below for more information on the African Red Granite Tiles that we have in stock. 
-                        SIZE (mm) - 305×305, 400×400, 450×450, 600×600
-                        PRICE - Price on request</span>
+                        <h3>Absolute Black 2cm</h3>
+                        <span class="gj">Absolute Black 2cm <br> SLAB	  |   Granite
+                        </span>
                       </div>
                     </div>
                     <div class="gallery-action" style="top: 219px;">
@@ -214,17 +211,16 @@
                   <div class="gallery-curve-wrapper">
                     <a class="gallery-cover gray">
                       <img class="responsive-img" 
-                      src="img/moon/materials/bianco-galaxy.jpg?0" crossorigin="anonymous" alt="placeholder">
+                      src="img/moon/acegraniteflorida/Item_Img_616_Antarctica_1000.jpg?0" crossorigin="anonymous" alt="placeholder">
                     </a>
                     <div class="gallery-header">
-                      <span>Bianco Galaxy Granite Tiles</span>
+                      <span>Antarctica</span>
+                      <p>For more information please click the image.</p>
                     </div>
                     <div class="gallery-body" style="margin-top: 219px; padding: 40px; min-height: 446px; display: none;">
                       <div class="title-wrapper" style=""><br>
-                        <h3>Bianco Galaxy Granite Tiles</h3>
-                        <span class="gj">Please see below for more information on the Bianco Galaxy Granite Tiles that we have in stock.
-SIZE (mm) - 305×305, 400×400, 450×450, 600×600
-PRICE - Price on request</span>
+                        <h3>Antarctica 3cm</h3>
+                        <span class="gj"> Antarctica 3cm  <br> SLAB	  |   Marble/Hard Marble/Onyx</span>
                       </div>
                     </div>
                     <div class="gallery-action" style="top: 219px;">
@@ -242,18 +238,16 @@ PRICE - Price on request</span>
                 <div class="d hf gu gallery-expand" style="position: relative;"><div class="placeholder">
                   <div class="gallery-curve-wrapper">
                     <a class="gallery-cover gray" >
-                      <img class="responsive-img"  src="img/moon/materials/Balmoral-Red.jpg?0" crossorigin="anonymous" alt="placeholder">
+                      <img class="responsive-img"  src="img/moon/acegraniteflorida/Item_Img_963_3___Alexandrita___Premium___3cm_1000.jpg?0" crossorigin="anonymous" alt="placeholder">
                     </a>
                     <div class="gallery-header">
-                      <span>Balmoral-Red</span>
-                      <p></p>
+                      <span>Alexandrita</span>
+                      <p>For more information please click the image.</p>
                     </div>
                     <div class="gallery-body" style="margin-top: 229px; padding: 40px; min-height: 436px; display: none;">
                       <div class="title-wrapper" style=""><br>
-                        <h3>Balmoral-Red</h3>
-                        <span class="gk">Please see below for more information on the Balmoral Red Granite Tiles that we have in stock.
-                      SIZE (mm) - 305×305, 400×400, 450×450, 600×600
-                      PRICE - Price on request</span>
+                        <h3>Alexandrita 2cm </h3>
+                        <span class="gk">Alexandrita 2cm <br> SLAB	  |   Marble/Hard Marble/Onyx </span>
                       </div>
                     </div>
                     <div class="gallery-action" style="top: 229px;">
@@ -273,18 +267,16 @@ PRICE - Price on request</span>
                 <div class="d hf gu gallery-expand" style="position: relative;"><div class="placeholder">
                   <div class="gallery-curve-wrapper">
                     <a class="gallery-cover gray" >
-                      <img class="responsive-img" src="img/moon/materials/Baltic-Brown.jpg?0" crossorigin="anonymous" alt="placeholder">
+                      <img class="responsive-img" src="img/moon/acegraniteflorida/Item_Img_1264_4___ALEXANDRITA_AZUL_1000.jpg?0" crossorigin="anonymous" alt="placeholder">
                     </a>
                     <div class="gallery-header">
-                      <span>Baltic-Brown</span>
-                      <p></p>
+                      <span>Alexandrita Azul 3cm</span>
+                      <p>For more information please click the image.</p>
                     </div>
                     <div class="gallery-body" style="margin-top: 229px; padding: 40px; min-height: 436px; display: none;">
                       <div class="title-wrapper" style=""><br>
-                        <h3>Baltic-Brown</h3>
-                        <span class="gk">Please see below for more information on the Baltic Brown Granite Tiles that we have in stock. 
-                      SIZE (mm) - 305×305, 400×400, 450×450, 600×600
-                      PRICE - Price on request</span>
+                        <h3>Alexandrita Azul</h3>
+                        <span class="gk">Alexandrita Azul 3cm<br> SLAB	  |   Marble/Hard Marble/Onyx </span>
                       </div>
                     </div>
                     <div class="gallery-action" style="top: 229px;">
@@ -300,18 +292,17 @@ PRICE - Price on request</span>
                 <div class="d hf gu gallery-expand" style="position: relative;"><div class="placeholder">
                   <div class="gallery-curve-wrapper">
                     <a class="gallery-cover gray">
-                      <img class="responsive-img" src="img/moon/materials/bianco-antico.png?0" crossorigin="anonymous" alt="placeholder">
+                      <img class="responsive-img" src="img/moon/acegraniteflorida/Item_Img_1334_4518B24E_1000.jpg?0" crossorigin="anonymous" alt="placeholder">
                     </a>
                     <div class="gallery-header">
-                      <span>Bianco Antico Granite</span>
+                      <span>Agatha Quartzite </span>
+                      <p>For more information please click the image.</p>
                       <p></p>
                     </div>
                     <div class="gallery-body" style="margin-top: 219px; padding: 40px; min-height: 446px; display: none;">
                       <div class="title-wrapper" style=""><br>
-                        <h3>Bianco Antico Granite</h3>
-                        <span class="gj">Please see below for more information on the Bianco Antico Granite Tiles that we have in stock.
-                      SIZE (mm) - 305×305, 400×400, 450×450, 600×600
-                      PRICE - Price on request</span>
+                        <h3>Agatha Quartzite 3cm </h3>
+                        <span class="gj">Agatha Quartzite 3cm <br> SLAB	  |   Marble/Hard Marble/Onyx  </span>
                       </div>
                     </div>
                     <div class="gallery-action" style="top: 219px;">
@@ -321,31 +312,7 @@ PRICE - Price on request</span>
                 </div></div>
               </div>
               
-            
-            
-         
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-             
-            
-            
-            
-            
-            
-            
-            
-            
-              
+       
              
                <br>
             </div>
@@ -361,10 +328,6 @@ PRICE - Price on request</span>
     <jsp:include page="menuSocialMediaIcons_moon.jsp" />
    
 
-    <!-- Core Javascript 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-      <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
-   -->
    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="js/materialize.min_0_98.js"></script>
     <script src="js/gallery-docs.min.opt.js" crossorigin="anonymous"></script>

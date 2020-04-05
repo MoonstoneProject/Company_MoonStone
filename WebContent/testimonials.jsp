@@ -17,8 +17,8 @@
 		<div class="row">
 			<div class="col s4 ">
 				<div class="card">
-					<div class="card-image waves-effect waves-block waves-light">
-						<img class="activator" src="img/moon/testimonials/testimo_1.png">
+					<div class="card-image  circle waves-effect waves-block waves-light">
+						<img class="activator" src="img/moon/testimonials/testimo_1-min_400.jpg">
 					</div>
 					<div class="card-content">
 						<span class="card-title activator grey-text text-darken-4">- PG, Interior Designer<i
@@ -42,8 +42,8 @@
 
 			<div class="col s4 ">
 				<div class="card">
-					<div class="card-image waves-effect waves-block waves-light">
-						<img class="activator" src="img/moon/testimonials/testimo_2-min.png">
+					<div class="card-image circle waves-effect waves-block waves-light">
+						<img class="activator" src="img/moon/testimonials/testimo_2-min_400.jpg">
 					</div>
 					<div class="card-content">
 						<span class="card-title activator grey-text text-darken-4 thin">- Timothy Pask <i class="material-icons right">more_vert</i>
@@ -64,11 +64,11 @@
 
 			<div class="col s4 ">
 				<div class="card">
-					<div class="card-image waves-effect waves-block waves-light">
-						<img class="activator" src="img/moon/testimonials/testimo_4.png">
+					<div class="card-image circle waves-effect waves-block waves-light">
+						<img class="activator" src="img/moon/testimonials/testimo_4-min_400.jpg">
 					</div>
 					<div class="card-content">
-						<span class="card-title activator grey-text text-darken-4 thin">- Neil Cantor, Cantor Masters Architects<i
+						<span class="card-title activator grey-text text-darken-4 thin">- Neil Cantor<i
 							class="material-icons right">more_vert</i></span>
 						<p>
 							<a href="#"></a>
