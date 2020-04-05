@@ -12,5 +12,4 @@
 	<jsp:include page="comercial_4.jsp" />
 	<jsp:include page="testimonials_phone.jsp" />
 	<jsp:include page="partners_phone.jsp" />
-	
 	<jsp:include page="footer_phone.jsp" />

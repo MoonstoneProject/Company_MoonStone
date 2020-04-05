@@ -14,7 +14,6 @@
 	<jsp:include page="comercial_4.jsp" />
 	<jsp:include page="testimonials.jsp" />
 	<jsp:include page="partners.jsp" />
-	
 	<jsp:include page="footer.jsp" />
 	
 
