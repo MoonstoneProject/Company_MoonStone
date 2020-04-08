@@ -7078,6 +7078,7 @@ input[type=range]:focus::-ms-fill-upper {
           backface-visibility: hidden;
   -webkit-transform: translateX(-105%);
           transform: translateX(-105%);
+   background-color: #333;
 }
 
 .side-nav.right-aligned {

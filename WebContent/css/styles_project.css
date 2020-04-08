@@ -15,6 +15,8 @@ header.top-header {
    
 }
 
+
+
  ul li.li_st:hover {
    /* list-style-type: none !important; */
    background-color: #333;
@@ -184,5 +186,14 @@ font-family: 'Roboto', sans-serif;
 	width:350px ;
 	height:200px;
 }
+
+
+img.partners{
+	width: 200px; 
+	/*height: 50px; */
+	
+}
+
+
 
 

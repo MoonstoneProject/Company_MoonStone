@@ -75,10 +75,10 @@
 				<br>
 				<ul class="grey-text text-lighten-3 thin">
 					<li><a href="gallery_granite_phone.jsp"><i
-							class="tiny material-icons circle">check_circle</i> Granite</a></li>
+							class="tiny material-icons circle">check_circle</i> &emsp; Granite</a></li>
 					<li><a href="index.jsp#comercial_gallery"><i
-							class="tiny material-icons circle">wb_incandescent</i> Gallery</a></li>
-					<li><a href="#"><i class="tiny material-icons circle">check_circle</i>
+							class="tiny material-icons circle">wb_incandescent</i> &emsp; Gallery</a></li>
+					<li><a href="#"><i class="tiny material-icons circle">check_circle</i> &emsp;
 							Others</a></li>
 				</ul>
 			</div>

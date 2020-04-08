@@ -34,49 +34,7 @@
 
 
 
-			<li class="li_st"><a href="#inicio"><i
-					class="medium material-icons">home</i><span
-					class="menu_4_label thin">Home</span></a></li>
-			<li class="li_st"><a href="gallery_granite_phone.jsp"><i
-					class="medium material-icons">zoom_in</i><span
-					class="menu_4_label thin">Granite</span></a></li>
-			<li class="li_st"><a href="#comercial_gallery"><i
-					class="medium material-icons">image</i><span
-					class="menu_4_label thin">Gallery</span></a></li>
-			<li class="li_st"><a href="#clients"><i
-					class="medium material-icons">chat</i><span
-					class="menu_4_label thin">Testimonials</span></a></li>
-			<li class="li_st"><a href="#partners"><i
-					class="medium material-icons">people_outline</i><span
-					class="menu_4_label thin">Partners</span></a></li>
-			<li class="li_st"><a href="#contactenos"><i
-					class="medium material-icons">contact_phone</i><span
-					class="menu_4_label thin">Contact Us</span></a></li>
-
-
-
-
-			<li class="li_st"><a href="#inicio"><i
-					class="medium material-icons">home</i><span
-					class="menu_4_label thin">Home</span></a></li>
-			<li class="li_st"><a href="gallery_granite_phone.jsp"><i
-					class="medium material-icons">zoom_in</i><span
-					class="menu_4_label thin">Granite</span></a></li>
-			<li class="li_st"><a href="#comercial_gallery"><i
-					class="medium material-icons">image</i><span
-					class="menu_4_label thin">Gallery</span></a></li>
-			<li class="li_st"><a href="#clients"><i
-					class="medium material-icons">chat</i><span
-					class="menu_4_label thin">Testimonials</span></a></li>
-			<li class="li_st"><a href="#partners"><i
-					class="medium material-icons">people_outline</i><span
-					class="menu_4_label thin">Partners</span></a></li>
-			<li class="li_st"><a href="#contactenos"><i
-					class="medium material-icons">contact_phone</i><span
-					class="menu_4_label thin">Contact Us</span></a></li>
-
-
-
+			
 
 
 

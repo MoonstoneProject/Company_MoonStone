@@ -16,9 +16,9 @@
 
 
 		<div class="row">
-			<div class="col s12 ">
+			<div class="col s12 center">
 				<a href="https://www.silestoneusa.com/"> <img
-					src="img/moon/partners/logo_silestoneusa.png" alt="" class="">
+					src="img/moon/partners/logo_silestoneusa.png" alt="" class="partners">
 				</a>
 			</div>
 		</div>
@@ -26,9 +26,9 @@
 
 
 		<div class="row">
-			<div class="col s12 ">
+			<div class="col s12 center">
 				<a href="https://www.stonewarehouse.co.uk/"> <img
-					src="img/moon/partners/logo_stonewarehouse.png" alt="" class="">
+					src="img/moon/partners/logo_stonewarehouse.png" alt="" class="partners">
 				</a>
 			</div>
 		</div>
@@ -36,9 +36,9 @@
 
 
 		<div class="row">
-			<div class="col s12 ">
+			<div class="col s12 center">
 				<a href="https://www.technistone.com/"> <img
-					src="img/moon/partners/Logo_technistone.png" alt="" class="">
+					src="img/moon/partners/Logo_technistone.png" alt="" class="partners">
 				</a>
 			</div>
 		</div>
@@ -46,53 +46,53 @@
 
 
 		<div class="row">
-			<div class="col s12 ">
+			<div class="col s12 center">
 				<a href="https://www.granitemarblegallery.com/"> <img
 					src="img/moon/partners/logo_granitemarblegallery_280.jpg" alt=""
-					class="">
+					class="partners">
 				</a>
 			</div>
 		</div>
 
 
 		<div class="row">
-			<div class="col s8 center ">
+			<div class="col s12 center">
 				<a href="http://www.acegraniteflorida.com/"> <img
-					src="img/moon/partners/logo_acegraniteflorida.jpg" alt="yyy"
-					class="">
+					src="img/moon/partners/logo_acegraniteflorida.jpg" alt=""
+					class="partners">
 				</a>
 			</div>
 		</div>
 
 
 		<div class="row">
-			<div class="col s4 ">
+			<div class="col s12 center">
 				<a href="http://globalstoneinc.com/"> <img
-					src="img/moon/partners/logo_globalstoneic.png" alt="" class=""
-					style="width: 250px; height: 150px;">
+					src="img/moon/partners/logo_globalstoneic.png" alt="" class="partners"
+					>
 				</a>
 			</div>
 
 		</div>
 
 		<div class="row">
-			<div class="col s12 ">
+			<div class="col s12 center">
 				<a href="https://www.pompeiiquartz.com/"> <img
-					src="img/moon/partners/logo_POMPEII.png" alt="" class="circle">
+					src="img/moon/partners/logo_POMPEII.png" alt="" class="partners">
 				</a>
 			</div>
 		</div>
 
 
+<!--  
 		<div class="row">
-			<div class="col s12 ">
+			<div class="col s12 center">
 				<a href="https://www.handfstone.com/"> <img
-					src="img/moon/partners/logo_handstone4.png" alt="" class=""
-					style="width: 300px; height: 200px; position: center">
+					src="img/moon/partners/logo_handstone4.png" alt="" class="partners">
 				</a>
 			</div>
 		</div>
-
+-->
 
 
 	</div>
