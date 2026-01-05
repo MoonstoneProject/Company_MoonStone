@@ -60,21 +60,3 @@ Repositorio: steven-sanchez-brazil/Company_MoonStone
 
 ---
 *Generado automáticamente: README básico con instrucciones para ejecutar y desarrollar localmente.*
-# Company_MoonStone
-
-#  [Description]
-Project MoonStonee
-
-# [installation]
-1. Download project 
-2. Execute index.js
-
-# [Usage]
-Web static 
-
-# [Documentation]
-
-# [RoadMap]
-
-# [License]
-
