@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Moon Stone</title>
+<title>Moon Stonee</title>
 
 <link rel="icon" type="image/png" href="img/moon/logo_mini_32_35.png" />
 
