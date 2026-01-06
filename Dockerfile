@@ -7,5 +7,5 @@ COPY WebContent/ /usr/local/tomcat/webapps/ROOT/
 # Expone el puerto 8080 para acceder a la aplicación
 EXPOSE 8080
 
-# Comando para iniciar Tomcat con ruta completa
-CMD ["/usr/local/tomcat/bin/catalina.sh", "run"]
+# Comando para iniciar Tomcat
+CMD ["catalina.sh", "run"]

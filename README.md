@@ -54,7 +54,7 @@ Proyecto web clásico basado en Java EE / Servlets + JSP. La aplicación contien
 
 - No se detectó un sistema de build (Maven/Gradle). Añadir uno facilita CI/CD y despliegues reproducibles.
 - Verifique la versión de Java del servidor para evitar problemas de compatibilidad con el contenedor de servlets.
-- La aplicación está configurada para ejecutarse en Apache Tomcat 11 con Docker, incluyendo correcciones para íconos de Material Icons (enlace HTTPS) e imágenes responsivas.
+- La aplicación está configurada para ejecutarse en Apache Tomcat 11 con Docker, incluyendo correcciones para íconos de Material Icons (enlace HTTPS), imágenes responsivas y Dockerfile optimizado para Tomcat 11.
 - Añadir un archivo `LICENSE` si desea especificar la licencia del código.
 
 ## Contribuciones
