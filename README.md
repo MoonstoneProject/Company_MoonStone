@@ -36,6 +36,13 @@ Proyecto web clásico basado en Java EE / Servlets + JSP. La aplicación contien
 
 3) Si se prefiere línea de comandos: no hay build script incluido (Maven/Gradle). Recomiendo crear un `pom.xml` o `build.gradle` para automatizar el empaquetado. Alternativamente, genere el WAR desde el IDE.
 
+4) Usando Docker (recomendado para simplicidad):
+
+   - Asegúrate de tener Docker instalado en tu sistema.
+   - Construye la imagen Docker: `docker build -t moonstone-app .`
+   - Ejecuta el contenedor: `docker run -p 8080:8080 moonstone-app`
+   - Accede a la aplicación en tu navegador: `http://localhost:8080`
+
 ## Desarrollo
 
 - Las vistas están en `WebContent/` y se sirven como JSPs.
