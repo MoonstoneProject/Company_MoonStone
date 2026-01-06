@@ -1,15 +1,33 @@
 
-	<jsp:include page="menu_moon.jsp" />
-	<jsp:include page="menuSocialMediaIcons_moon.jsp" />
-	<jsp:include page="Portada_moon.jsp" />
-	<jsp:include page="comercial_1.jsp" />
-	<jsp:include page="comercial_2.jsp" />
-	<jsp:include page="comercial_3.jsp" />
-	<jsp:include page="comercial_8.jsp" />
-	<jsp:include page="comercial_4.jsp" />
-	<jsp:include page="testimonials.jsp" />
-	<jsp:include page="partners.jsp" />
-	<jsp:include page="footer.jsp" />
-	
+	<div class="include" data-src="menu_moon.html"></div>
+	<div class="include" data-src="menuSocialMediaIcons_moon.html"></div>
+	<div class="include" data-src="Portada_moon.html"></div>
+	<div class="include" data-src="comercial_1.html"></div>
+	<div class="include" data-src="comercial_2.html"></div>
+	<div class="include" data-src="comercial_3.html"></div>
+	<div class="include" data-src="comercial_8.html"></div>
+	<div class="include" data-src="comercial_4.html"></div>
+	<div class="include" data-src="testimonials.html"></div>
+	<div class="include" data-src="partners.html"></div>
+	<div class="include" data-src="footer.html"></div>
+
+	<script>
+	  (function(){
+	    function loadIncludes(){
+	      var els = document.querySelectorAll('.include[data-src]');
+	      els.forEach(function(el){
+	        var src = el.getAttribute('data-src');
+	        if(!src) return;
+	        fetch(src, {cache: 'no-store'})
+	          .then(function(resp){ if(!resp.ok) throw new Error(resp.statusText); return resp.text(); })
+	          .then(function(html){ el.innerHTML = html; })
+	          .catch(function(){ /* leave empty on error */ });
+	      });
+	    }
+	    if(document.readyState === 'loading') document.addEventListener('DOMContentLoaded', loadIncludes);
+	    else loadIncludes();
+	  })();
+	</script>
+
 
 
