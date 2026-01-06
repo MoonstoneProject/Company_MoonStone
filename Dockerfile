@@ -1,11 +1,12 @@
-# Usa la imagen oficial de Tomcat 9.0 para compatibilidad completa
-FROM tomcat:9.0
+# Usa la imagen oficial de Apache Tomcat (última versión estable)
+FROM tomcat:latest
 
-# Copia los archivos de la aplicación web al directorio ROOT de Tomcat
+# Limpiar el ROOT anterior y copiar los archivos de la aplicación
+RUN rm -rf /usr/local/tomcat/webapps/ROOT
 COPY WebContent/ /usr/local/tomcat/webapps/ROOT/
 
-# Expone el puerto 8080 para acceder a la aplicación
+# Exponer puerto 8080
 EXPOSE 8080
 
-# Comando para iniciar Tomcat
+# Iniciar Tomcat (el contenedor oficial ya usa catalina.sh)
 CMD ["catalina.sh", "run"]

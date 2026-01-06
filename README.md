@@ -39,8 +39,9 @@ Proyecto web clásico basado en Java EE / Servlets + JSP. La aplicación contien
 4) Usando Docker (recomendado para simplicidad):
 
    - Asegúrate de tener Docker instalado en tu sistema.
-   - Construye la imagen Docker: `docker build -t moonstone-app .`
-   - Ejecuta el contenedor: `docker run -p 8080:8080 moonstone-app`
+   - El `Dockerfile` del repositorio ahora utiliza `tomcat:latest` (probado con Tomcat 11.x).
+   - Construye la imagen Docker: `docker build -t company_moonstone:latest .`
+   - Ejecuta el contenedor (ejemplo de prueba): `docker run -d --rm -p 8080:8080 --name moonstone_test company_moonstone:latest`
    - Accede a la aplicación en tu navegador: `http://localhost:8080`
 
 ## Desarrollo
