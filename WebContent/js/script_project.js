@@ -129,7 +129,7 @@ function index(){
 			
 
 			$(document).ready(function(){
-				$('body').load('index_desktop.html');
+				$('body').load('index_desktop.jsp');
 			 });
 			
 		}
@@ -146,6 +146,9 @@ var emailPattern = "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+.[a-zA-Z]{2,4}$";
 function checkInput(idInput, pattern) {
 return $(idInput).val().match(pattern) ? true : false;
 }
+
+// Cambio de prueba: Agregar un console.log para verificar que el script se actualice en Docker
+console.log('Script loaded successfully - updated for Docker test');
 
 
 

@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="charset=UTF-8"
+<%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 
 <!DOCTYPE html>     
@@ -10,7 +10,7 @@
 <link rel="icon" type="image/png" href="img/moon/logo_mini_32_35.png" />
 
 
-<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link type="text/css" rel="stylesheet" href="css/materialize.css" media="screen,projection" />
 <link type="text/css" rel="stylesheet" href="css/materialize-social.css" media="screen,projection" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
