@@ -129,7 +129,7 @@ function index(){
 			
 
 			$(document).ready(function(){
-				$('body').load('index_desktop.jsp');
+				$('body').load('index_desktop.html');
 			 });
 			
 		}
