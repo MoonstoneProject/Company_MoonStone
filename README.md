@@ -17,7 +17,7 @@ Proyecto web clásico basado en Java EE / Servlets + JSP. La aplicación contien
 
 ## Requisitos
 
-- JDK 17+ (para Tomcat 11; se recomienda JDK 17 para compatibilidad moderna).
+- JDK 11+ (para Tomcat 9; se recomienda JDK 11 para compatibilidad moderna).
 - Contenedor de servlets compatible (Apache Tomcat 8/9/10/11, Jetty u otro).
 - IDE recomendado: Eclipse (Dynamic Web Project) o IntelliJ IDEA Ultimate.
 
@@ -54,7 +54,7 @@ Proyecto web clásico basado en Java EE / Servlets + JSP. La aplicación contien
 
 - No se detectó un sistema de build (Maven/Gradle). Añadir uno facilita CI/CD y despliegues reproducibles.
 - Verifique la versión de Java del servidor para evitar problemas de compatibilidad con el contenedor de servlets.
-- La aplicación está configurada para ejecutarse en Apache Tomcat 11 con Docker, incluyendo correcciones para íconos de Material Icons (enlace HTTPS), imágenes responsivas y Dockerfile optimizado para Tomcat 11.
+- La aplicación está configurada para ejecutarse en Apache Tomcat 9 con Docker, incluyendo correcciones para íconos de Material Icons (enlace HTTPS), imágenes responsivas y Dockerfile optimizado para Tomcat 9.
 - Añadir un archivo `LICENSE` si desea especificar la licencia del código.
 
 ## Contribuciones
